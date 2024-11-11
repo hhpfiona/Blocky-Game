@@ -1,4 +1,4 @@
-# Blocky Game Project [March - April 2024]
+# Blocky Game Project [March 2024]
 
 Welcome to the Blocky Game Project! This repository hosts the code for **Blocky**, a grid-based, turn-based strategy game. Blocky challenges players to manipulate a colorful game board in a bid to reach specific goals and score as highly as possible.
 
